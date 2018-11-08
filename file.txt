@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Paris is the capital of france
+=======
+My first line in project
+>>>>>>> parent of 894d442... Capital added
